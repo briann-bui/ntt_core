@@ -1,0 +1,2 @@
+waive -rule {W415a} -file {rtl/apb_ntt_coefficient_memory.sv}
+waive -rule {STARC05-1.3.1.3} -file {rtl/apb_ntt_datapath.sv}

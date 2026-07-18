@@ -1,0 +1,3 @@
+current_design apb_ntt_wrapper
+clock -name apb_ntt_wrapper.i_ntt_pclk -domain PCLK -period 20 -waveform {0 10}
+reset -name apb_ntt_wrapper.i_ntt_presetn -value 0

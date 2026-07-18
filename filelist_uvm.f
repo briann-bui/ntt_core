@@ -1,0 +1,11 @@
++incdir+uvm/agent
++incdir+uvm/driver
++incdir+uvm/env
++incdir+uvm/monitor
++incdir+uvm/scoreboard
++incdir+uvm/sequences
++incdir+uvm/tests
++incdir+uvm/tb
+uvm/tb/apb_if.sv
+uvm/tb/apb_ntt_uvm_pkg.sv
+uvm/tb/apb_ntt_tb_top.sv
