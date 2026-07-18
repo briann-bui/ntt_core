@@ -1,0 +1,1 @@
+waive -rule {Ar_resetcross01} -file {rtl/apb_ntt_coefficient_memory.sv}
