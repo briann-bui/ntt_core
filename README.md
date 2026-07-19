@@ -1,4 +1,6 @@
-# APB NTT Core
+﻿# APB NTT Core
+
+[![RTL Lint](https://github.com/briann-bui/apb-ntt-core/actions/workflows/lint.yml/badge.svg)](https://github.com/briann-bui/apb-ntt-core/actions/workflows/lint.yml)
 
 ## Overview
 
@@ -151,3 +153,4 @@ cover only the expected dual-port/unreset SRAM-model findings.
 2. `ROOT` must have the required order for the chosen `N` and `Q`.
 3. Barrett reduction assumes the datapath's bounded input contract.
 4. Add standard-specific end-to-end known-answer tests before cryptographic use.
+
